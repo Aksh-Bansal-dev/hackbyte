@@ -30,3 +30,82 @@
   margin: 2vh 5vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+.About-con {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.About-con h1 {
+  font-size: 7rem;
+  letter-spacing: 0.5rem;
+  transform: translateX(40%);
+}
+.About-con p {
+  width: 50%;
+  font-size: 2.5rem;
+  transform: translateX(40%);
+}
+
+.Prizes-con {
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  background-color: black;
+}
+.Prizes-con img {
+  width: 100%;
+}
+.Prizes-con h1 {
+  margin: 5vh;
+  font-size: 7rem;
+  letter-spacing: 0.5rem;
+  color: white;
+}
+.Prizes-con p {
+  font-size: 2.5rem;
+  color: white;
+}
+
+.Timeline-con {
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.Timeline-con h1 {
+  margin: 5vh;
+  font-size: 7rem;
+  letter-spacing: 0.5rem;
+}
+
+.Theme-con {
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  background-color: black;
+}
+.Theme-con h1 {
+  margin: 5vh;
+  font-size: 7rem;
+  color: white;
+  letter-spacing: 0.5rem;
+}
+.faq-con {
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.faq-con h1 {
+  margin: 5vh;
+  font-size: 7rem;
+  letter-spacing: 0.5rem;
+}
